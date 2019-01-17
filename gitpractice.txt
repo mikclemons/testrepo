@@ -1,2 +1,2 @@
-Adding text to this file to practice git flow. 
+Adding text to this file to practice git flow. Add more text. 
 
